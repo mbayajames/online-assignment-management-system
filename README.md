@@ -20,7 +20,7 @@ A **secure, scalable, and user-friendly** web application designed to streamline
 
 ## 🛠️ Tech Stack  
 
-| **Category**       | **Technology**                     |  
+| **Category**       | **Technologies**                     |  
 |--------------------|--------------------------------------|  
 | **Frontend**       | React.js, Tailwind CSS (or Material-UI) |  
 | **Backend**        | Node.js, Express.js                  |  
