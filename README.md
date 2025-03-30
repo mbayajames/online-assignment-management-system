@@ -20,7 +20,7 @@ A **secure, scalable, and user-friendly** web application designed to streamline
 
 ## 🛠️ Tech Stack  
 
-| **Category**       | **Technologies**                     |  
+| **Category**       | **Technology**                     |  
 |--------------------|--------------------------------------|  
 | **Frontend**       | React.js, Tailwind CSS (or Material-UI) |  
 | **Backend**        | Node.js, Express.js                  |  
@@ -71,7 +71,7 @@ A **secure, scalable, and user-friendly** web application designed to streamline
 5. **Access the app**  
    Open `http://localhost:3000` in your browser.  
 
-## 🔒 Security Highlights  
+## 🔒 Security Highlight  
 - **Role-Based Access Control (RBAC)** – Admins/Students have restricted views.  
 - **Password Hashing** – Bcrypt secures user credentials.  
 - **HTTPS Ready** – Safe for deployment with TLS/SSL.  
