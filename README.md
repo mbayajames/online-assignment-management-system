@@ -6,7 +6,7 @@ A **secure, scalable, and user-friendly** web application designed to streamline
 
 ## ✨ Key Features  
 
-### **For Administrator (Lecturers)**  
+### **For Administrator (Lecturer)**  
 ✅ **User Management** – Register, manage, and view users (students/admins) with role-based access.  
 ✅ **Assignment Management** – Create, publish, and track assignments with deadlines and descriptions.  
 ✅ **Grading & Feedback** – Review submissions, assign grades, and provide structured feedback.  
