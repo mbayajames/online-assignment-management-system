@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import store from './redux/store';
 import Login from './components/Login';
@@ -9,8 +9,10 @@ const App = () => {
   return (
     <Provider store={store}>
       <Router>
-          <Route path="/" exact component={Login} />
-          <Route path="/dashboard" component={Dashboard} />
+        <Routes>
+          <Route path="/" element={<Login />} />
+          <Route path="/dashboard" element={<Dashboard />} />
+        </Routes>
       </Router>
     </Provider>
   );
